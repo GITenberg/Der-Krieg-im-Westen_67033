@@ -1,0 +1,35 @@
+_repo: Der-Krieg-im-Westen_67033
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kellermann, Bernhard
+    aliases:
+    - Kellerman, Berngard
+    - Kellermann, B. (Bernhard)
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '40548'
+    url: http://www.gutenberg.org/2009/agents/40548
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bernhard_Kellermann
+    - https://de.wikipedia.org/wiki/Bernhard_Kellermann
+description: ''
+gutenberg_issued: '2021-12-28'
+identifiers:
+  gutenberg: '67033'
+language: de
+pgterms:marc904: https://archive.org/details/derkriegimwesten00kelluoft
+pgterms:marc905: 20191029121306kellermann
+pgterms:marc906: '1915'
+pgterms:marc907: de
+production_note: Peter Becker, Jens Sadowski, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net. This file was produced from images generously made
+  available by The Internet Archive.
+publication_note: "Germany :S. Fischer\r,1915."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Der Krieg im Westen
+url: http://www.gutenberg.org/ebooks/67033
